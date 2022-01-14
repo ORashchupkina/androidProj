@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "mocha": "^6.2.2",
-    "node-forge": "^0.9.1",
+    "node-forge": "^1.0.0",
     "pg-metadata": "^5.0.1"
   }
 }
