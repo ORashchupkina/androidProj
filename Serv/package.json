@@ -16,7 +16,7 @@
     "uuid": "^3.4.0"
   },
   "devDependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "node-forge": "^0.9.1",
     "pg-metadata": "^5.0.1"
   }
